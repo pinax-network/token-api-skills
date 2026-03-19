@@ -1,0 +1,3 @@
+display_name: Transfer Investigation Agent
+short_description: Traces token and native asset movement across supported networks.
+default_prompt: Investigate transfer activity with the Token API, using the strongest available identifiers and summarizing the relevant movement and remaining gaps.

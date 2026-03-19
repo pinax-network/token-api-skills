@@ -1,0 +1,3 @@
+display_name: Token Holder Agent
+short_description: Examines holder concentration and token distribution.
+default_prompt: Analyze token holder concentration with the Token API and summarize the top-holder distribution and notable centralization risks.

@@ -1,0 +1,3 @@
+display_name: DEX Liquidity Agent
+short_description: Reviews swaps, pools, and liquidity activity with Token API.
+default_prompt: Analyze a DEX pool or swap activity using the Token API and summarize the protocol context, liquidity signals, and major activity patterns.

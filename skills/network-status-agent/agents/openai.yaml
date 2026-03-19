@@ -1,0 +1,3 @@
+display_name: Network Status Agent
+short_description: Checks health, version, and supported network availability.
+default_prompt: Check Token API operational status and summarize health, version, and supported networks.

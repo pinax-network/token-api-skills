@@ -1,0 +1,3 @@
+display_name: API Integration Helper
+short_description: Maps developer use cases to Token API requests and parameters.
+default_prompt: Help me integrate with the Token API by choosing endpoints, parameters, and a request strategy for my use case.

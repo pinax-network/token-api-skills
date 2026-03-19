@@ -1,0 +1,3 @@
+display_name: Wallet Portfolio Agent
+short_description: Summarizes wallet balances and token holdings with Token API.
+default_prompt: Analyze a wallet portfolio using the Token API and summarize the major holdings, chain context, and any notable concentrations.
