@@ -1,0 +1,9 @@
+{
+  "name": "token-api",
+  "description": "Token API skills: wallet portfolios, token holders, transfer investigation, DEX liquidity, network status and API integration.",
+  "author": {
+    "name": "Pinax",
+    "url": "https://github.com/pinax-network"
+  },
+  "repository": "https://github.com/pinax-network/token-api-skills"
+}

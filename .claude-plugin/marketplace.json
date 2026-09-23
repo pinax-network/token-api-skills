@@ -1,0 +1,18 @@
+{
+  "name": "pinax-token-api",
+  "owner": {
+    "name": "Pinax",
+    "url": "https://github.com/pinax-network"
+  },
+  "metadata": {
+    "description": "Task-focused skills for agents using the Pinax Token API."
+  },
+  "plugins": [
+    {
+      "name": "token-api",
+      "source": "./",
+      "description": "Token API skills: wallet portfolios, token holders, transfer investigation, DEX liquidity, network status and API integration.",
+      "category": "data"
+    }
+  ]
+}
